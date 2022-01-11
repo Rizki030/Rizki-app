@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resep Kita</string>
+    <string name="search_your_recipes">Cari Resepmu</string>
+    <string name="meal_categories">Meal Categories</string>
+    <string name="category">Kategori</string>
+    <string name="country">Negara</string>
+    <string name="instructions">Langkah-langkah</string>
+    <string name="dot_loading">...</string>
+    <string name="Ingredients">Bahan-bahan</string>
+    <string name="youtube">YOUTUBE</string>
+    <string name="source">SOURCE</string>
+    <string name="favorite">Favorite</string>
+</resources>
